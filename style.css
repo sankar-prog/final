@@ -619,7 +619,7 @@ input::-webkit-input-placeholder {
     grid-template-columns: repeat(2, 1fr); 
     }
     .list >.box {
-        height: 210px;
+        height: 150px;
         width: 180px;
         display:flex;
         gap: 10px;
